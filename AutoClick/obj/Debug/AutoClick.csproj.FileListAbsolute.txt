@@ -1,0 +1,8 @@
+E:\sm\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+E:\sm\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+E:\sm\AutoClick\AutoClick\obj\Debug\AutoClick.Form1.resources
+E:\sm\AutoClick\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+E:\sm\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.Cache
+E:\sm\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+E:\sm\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
+E:\sm\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
